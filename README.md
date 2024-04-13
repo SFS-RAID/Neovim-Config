@@ -1,7 +1,7 @@
 ## SFS RAID's Neovim Configuration
 > A fork of [**NvChad**](https://github.com/NvChad/NvChad)
 
-A Neovim Configuration that works **Out of the Box**
+A Neovim Configuration that works **Out of the Box**.\n
 It Includes
  - LSP Servers
  - More Plugins
