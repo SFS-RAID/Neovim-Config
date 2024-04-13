@@ -11,11 +11,11 @@ It Includes
 ```bash
 git clone https://github.com/SFS-RAID/Neovim-Config ~/.config/nvim
 ```
-Open Neovim
+**Open Neovim**
 ```bash
 nvim
 ```
-Run Commands in Neovim
+**Run Commands in Neovim**
 ```vim
 :Lazy
 ```
